@@ -3,3 +3,5 @@ Para la comunicación con dispositivos externos, integramos la biblioteca flutte
 La aplicación recibe datos de presión en un rango de 0 a 255 del sensor de presión conectado. Estos datos se muestran en una interfaz de usuario simple y receptiva, que permite a los usuarios visualizar la presión medida de manera clara y precisa en sus dispositivos móviles.
 Además, hemos incorporado una entrada de texto que actúa como el display para los datos adquiridos a través de Bluetooth. Esto proporciona una forma conveniente para que los usuarios interactúen con la aplicación y vean los resultados de la medición de presión en tiempo real.
 En resumen, nuestra aplicación aprovecha las capacidades de Flutter y la comunicación Bluetooth para ofrecer una solución técnica efectiva para la medición de presión en dispositivos móviles.
+
+Link del figma: https://www.figma.com/file/oi8fSH37ZJVbbRR6Aodt93/Untitled?type=design&node-id=0%3A1&mode=design&t=ZzYG33EMfT5Zaxa3-1
