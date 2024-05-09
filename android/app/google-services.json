@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "147609793965",
+    "project_id": "app3-z2n7y6",
+    "storage_bucket": "app3-z2n7y6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147609793965:android:66e1e6c5ab53d266845d24",
+        "android_client_info": {
+          "package_name": "Microvita.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnXErAY91_Z8jXpnrSmlqGz1C_Hc8Mgu8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
